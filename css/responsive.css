@@ -1,0 +1,192 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.section-title {
+	padding: 0 40px;
+}
+#header .contact{
+	float:none;
+	text-align:center;
+	margin-bottom:5px;
+}
+#header .social{
+	float:none;
+	text-align:center;
+}
+#header .right-bar{
+	display:none;
+}
+#header .header-inner {
+	height: 80px;
+}
+#header .logo {
+	padding-top: 28px;
+}
+#header .nav li a {
+	padding: 30px 7px;
+}
+#slider .single-slider{
+	height:500px;
+}
+#slider .single-slider .text {
+	margin-top: 100px;
+}
+#slider .single-slider h1 {
+	color: #fff;
+	font-size: 50px;
+	font-weight: 600;
+	line-height: 55px;
+}
+#slider .single-slider .button{
+	margin-top:30px;
+}
+#slider .single-slider .arrow{
+	margin-top:30px;
+}
+#features .single-features h4 {
+	margin-bottom: 12px;
+}
+#features .single-features {
+	padding-left: 40px;
+}
+#features .single-features i {
+	font-size: 25px;
+}
+#fun-facts .single-features span{
+	margin-bottom:15px;
+	padding-bottom:15px;
+}
+#testimonials .single-testimonial {
+	padding: 0 100px;
+}
+#newslatter {
+	padding: 100px 0;
+}
+#newslatter .form input {
+	width: 205px;
+}
+#blog .single-news .news-body {
+	padding: 15px;
+}
+}
+
+@media only screen and (max-width: 767px){
+.slicknav_menu {
+	display: block;
+	background: transparent;
+	padding: 0;
+	margin-top: 14px;
+}
+.slicknav_menu .slicknav_btn {
+	margin: 0;
+	background: #42ACF6;
+	border-radius: 0;
+}
+.slicknav_menu .slicknav_nav{
+	background:#333;
+}
+.slicknav_menu .slicknav_btn {
+	margin: 0;
+	background: #42ACF6;
+	position: relative;
+	top: -4px;
+}
+.slicknav_menu .slicknav_menutxt{
+	text-shadow:none;
+}
+.section-title {
+	padding: 0 40px;
+}
+#header .contact{
+	float:none;
+	text-align:center;
+	margin-bottom:5px;
+}
+#header .social li.email {
+	color: #fff;
+	display: block;
+	margin-bottom: 5px;
+}
+#header .social{
+	float:none;
+	text-align:center;
+}
+#header .right-bar{
+	display:none;
+}
+#header .header-inner {
+	height: auto;
+	padding: 10px 0;
+}
+#header .logo {
+	padding-top: 14px;
+}
+#header .nav li a {
+	padding: 30px 7px;
+}
+#slider .single-slider{
+	height:400px;
+}
+#latest-works .works-menu ul li {
+	margin-right: 20px;;
+}
+#slider .single-slider .text {
+	margin-top: 100px;
+}
+#slider .single-slider h1 {
+	color: #fff;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 35px;
+}
+#slider .single-slider .btn {
+	margin-right: 15px;
+	padding: 0 20px;
+}
+#slider .single-slider .button{
+	margin-top:30px;
+}
+#slider .single-slider .arrow{
+	margin-top:30px;
+}
+#features .single-features h4 {
+	margin-bottom: 12px;
+}
+#features .single-features {
+	padding-left: 40px;
+}
+#features .single-features i {
+	font-size: 25px;
+}
+#fun-facts .single-features span{
+	margin-bottom:15px;
+	padding-bottom:15px;
+}
+#testimonials .single-testimonial {
+	padding: 0 20px;
+}
+#newslatter {
+	padding: 100px 0;
+}
+#newslatter .form input {
+	width: 205px;
+}
+#newslatter .form {
+	overflow: hidden;
+	margin-top: 30px;
+}
+#blog .single-news .news-body {
+	padding: 15px;
+}
+}
+
+@media only screen and (max-width: 320px){
+.section-title {
+	padding: 0 20px;
+}
+#newslatter .form input {
+	width: 185px;
+}
+#newslatter .form button {
+	height: 50px;
+	width: 90px;
+}
+}
